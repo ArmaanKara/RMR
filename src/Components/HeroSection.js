@@ -2,8 +2,8 @@ import React from 'react';
 import '../App.css';
 import { Button } from './Button';
 import './HeroSection.css';
-import { SearchBar } from './SearchBar';
-import Cards from './Cards';
+// import { SearchBar } from './SearchBar';
+// import Cards from './Cards';
 
 class HeroSection extends React.Component {
     
