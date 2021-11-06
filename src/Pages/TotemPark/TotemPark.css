@@ -1,0 +1,12 @@
+.totempark-header h1{
+    text-align: left;
+    font-size: 5rem;
+    padding:4rem;
+    margin-bottom: 10rem;
+}
+.totempark-header{
+    background-image: url(../../images/Totem.jpg); 
+    background-repeat: no-repeat;
+    margin-bottom: 10rem;
+    height: 700px;
+}

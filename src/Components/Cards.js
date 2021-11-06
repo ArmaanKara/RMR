@@ -13,7 +13,7 @@ function Cards(props) {
               src='/images/Totem.jpg'
               text='Totem Park'
               label='1st Year'
-              path='/'
+              path='/totempark'
             />
             <CardItem
             src='/images/Vanier.jpg'
